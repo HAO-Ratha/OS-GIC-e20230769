@@ -1,0 +1,18 @@
+{
+ "answers": {
+  "file": "y",
+  "files": "5",
+  "kernel": "26.04",
+  "sleeps": "2",
+  "why": "A program is a set of process . A  process is set structure of a program."
+ },
+ "practice": false,
+ "values": {
+  "copy": "candle-copy.txt",
+  "folder": "cp-tiger",
+  "n": 2,
+  "note": "candle.txt",
+  "old": "candle-old.txt",
+  "text": "hello tiger"
+ }
+}
