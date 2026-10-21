@@ -1,0 +1,13 @@
+/home/gic-hao-ratha/oslab-work/lab1/task2_files
+cloud.txt
+silver.txt
+This is file cloud
+This is file silver
+cloud.txt
+cloud_copy.txt
+silver.txt
+cloud.txt
+cloud_copy.txt
+silver_rename.txt
+cloud.txt
+silver_rename.txt
