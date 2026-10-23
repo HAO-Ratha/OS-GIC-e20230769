@@ -1,0 +1,9 @@
+My choice: I chose a relative path.
+
+Relative path example: ../TechCorp/Sale/archive/first-original.txt
+
+Absolute path example: "$OSLAB_WORKSPACE/lab2/TechCorp/Sale/archive/first-original.txt"
+
+I chose a relative path because it is shorter when working within a known directory structure. An absolute path is better when I need to specify the exact location of a file regardless of my current working directory.
+Error: cat: 'reports/tax summary.txt': No such file or directory 
+Fix: cat "../../reports/$file1"
