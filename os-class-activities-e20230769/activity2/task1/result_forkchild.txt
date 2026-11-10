@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x 2 ratha ratha  4096 Oct 30 08:41 .
+drwxr-xr-x 7 ratha ratha  4096 Oct 30 08:30 ..
+-rwxr-xr-x 1 ratha ratha 16400 Oct 30 08:41 forkchild
+-rw-r--r-- 1 ratha ratha  1431 Oct 30 08:41 forkchild.c
+-rw-r--r-- 1 ratha ratha     0 Oct 30 08:41 result_forkchild.txt
+Parent process (PID: 8186) — creating child...
+Parent: waiting for child (PID: 8187) to finish...
+Parent: child exited with status 0
+Parent: done.
