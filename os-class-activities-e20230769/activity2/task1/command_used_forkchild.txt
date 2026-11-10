@@ -1,0 +1,20 @@
+ 1015  /forkchild 
+ 1016  forkchild 
+ 1017  forkchild.c 
+ 1018  ./forkchild 
+ 1019  ls
+ 1020  cd OS-GIC-e20230769  
+ 1021  tree
+ 1022  cd os-class-activities-e20230769
+ 1023  ls
+ 1024  cd activity2
+ 1025  tree
+ 1026  ps -ef --forest | grep forkchild
+ 1027  git remote -v
+ 1028  git add .
+ 1029  git commit -m "Task1"
+ 1030  git push origin main
+ 1031  cat task1/result_forkchild.txt 
+ 1032  cd task1
+ 1033  ps -ef --forest | grep forkchild
+ 1034  history | tail -n 20 > command_used_forkchild.txt
